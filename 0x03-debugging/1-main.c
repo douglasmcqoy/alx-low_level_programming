@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -causes an infinite loop
+ * main - causes an infinite loop
  * Return: 0
  */
 
@@ -12,12 +12,12 @@ int main(void)
 	printf("Infinte loop coming :(\n");
 
 	i = 0;
-/*
- * while (i < 10)
- * {
- * putchar(0);
- * }
- */
+	/**
+	* while (i < 10)
+	*{
+	*	putchar(0);
+	*}
+	*/
 	printf("Infinte loop avoided! \\o/\n");
 
 	return (0);
