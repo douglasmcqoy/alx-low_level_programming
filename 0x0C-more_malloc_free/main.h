@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /**
- * Auth: Brennan D Baraban
+ * Auth: Douglas Quaye
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x0B-more_malloc_free directory.
  */
